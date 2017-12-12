@@ -1,0 +1,7 @@
+D:\VSTest\ConfigurationExample\ConfigurationExample\bin\Debug\ConfigurationExample.exe.config
+D:\VSTest\ConfigurationExample\ConfigurationExample\bin\Debug\ConfigurationExample.exe
+D:\VSTest\ConfigurationExample\ConfigurationExample\bin\Debug\ConfigurationExample.pdb
+D:\VSTest\ConfigurationExample\ConfigurationExample\obj\Debug\ConfigurationExample.csprojResolveAssemblyReference.cache
+D:\VSTest\ConfigurationExample\ConfigurationExample\obj\Debug\ConfigurationExample.csproj.CoreCompileInputs.cache
+D:\VSTest\ConfigurationExample\ConfigurationExample\obj\Debug\ConfigurationExample.exe
+D:\VSTest\ConfigurationExample\ConfigurationExample\obj\Debug\ConfigurationExample.pdb
